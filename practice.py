@@ -59,6 +59,7 @@ print(f"今日の日付: {formatted_today}")
 print(f"今日のメッセージ: {random.choice(messages)}")
 
 while True:
+    print("=== Python User Manager ===")
     print("ユーザー管理アプリ")
     print("1: ユーザーを追加")
     print("2: 全ユーザーを表示")
